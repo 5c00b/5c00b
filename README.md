@@ -1,4 +1,4 @@
-## Hi there 👋
+![Hello there](https://github.com/5c00b/5c00b/blob/main/hello-there-kenobi.gif)
 
 <!--
 **5c00b/5c00b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
